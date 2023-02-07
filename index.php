@@ -9,10 +9,8 @@
  */
 
 // TODO Votre code ici.
-try {
-    ...
-}
-catch...
+require "DbPDO.php";
+DbPDO::connect();
 
 
 
